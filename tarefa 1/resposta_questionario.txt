@@ -1,0 +1,58 @@
+ Nome : Frederico Vicente da Silva 
+  RA : 1460682023033
+
+
+I.	Escolha um sistema computacional e dê um exemplo de DADO, INFORMAÇÃO e CONHECIMENTO associado às informações manipuladas pelo sistema. Poste o nome/tipo do sistema que você escolheu (no caso de duplas, escolha dois sistemas)  no canal Tema Atividades. Se um colega já escolheu o sistema que você escolheu,  você deverá escolher outro.
+
+ sitema : windows 10 navegador , google crome  link : https://www.google.com/search?q=converter+m+em+cm&oq=conver&aqs=chrome.1.69i59l3j69i61l3j69i65l2.3816j0j7&sourceid=chrome&ie=UTF-8 
+ 
+
+dado  e os numeros 1 e 100 contidos nesse programa 
+Informação e as unidades de medida , metro e centimetro
+Conhecimento e o conjunto que mostra conversão  de metros para centimetros .
+
+
+
+
+Para seu primeiro e último nomes, proceda como exemplificado (para o caso de duplas, faça isso para os dois membros da dupla).
+
+
+Letra          DEC               BINARIOS
+  F            70                0100 0110
+  r           114                0111 0010
+  e           101                0110 0101
+  d           100                0110 0100
+  e           101                0110 0101
+  r           114                0111 0010
+  i           105                0110 1001
+  c            99                0110 0011
+  o           111                0110 1111
+
+  S            83                0101 0011
+  i           105                0110 1001
+  l           108                0110 1100
+  v           118                0111 0110
+  a            97                0110 0001
+
+
+
+I.	Exemplifique um site (ou 2, no caso de duplas) que utilize criptografia, tal como mostrado nos vídeos do professor. Escreva aqui o link para acessá-lo.
+Passo 1 vai no navegador  google crome  digite na aba do navegador      https://www.mercadolivre.com.br/
+Passo 2 vai no cadeado do lado do navegador  de click nele
+Passo 3  vai na aba certificado de um click nele
+Passo 4  vai na aba detalhes clica nele
+Passo 5 procure  campo chave publica .
+ 
+
+Conclusao   
+
+Esse seti e seguro pois usa uma criptografia
+RSA mais complexa .
+Com isso as informações que vão do cliente  para o Sevidor do seti descrito  chegaram seguros  sem que terceiros tem acesso a essas imformações .
+
+
+
+
+
+
+
